@@ -8,6 +8,7 @@ ICSSgen3D can help you creating input files for 3D-ICSS calculation.
 First pre-release is v0.6 (2021-06-06).
 
 ## Usage
+*For more details information, please refer to the user manual.*
 1. Run ICSSgen3D. Python 3.9 IDE is needed.
 2. Prepare an original input file. An example of input file is shown below. You could find this 
 input file in the *example* folder.
