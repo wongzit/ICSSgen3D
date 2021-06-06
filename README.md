@@ -54,6 +54,6 @@ Please specify the grid quality:
 (User input) (ENTER)
 ICSSgen will use grid quality of 0.25.
 ```
-6. Several input files would be generated to the same dictionary with the original input file.
+6. Several input files named as *xxx_3DICSS_00xx.gjf* would be generated to the same dictionary with the original input file.
 Please submit this input files to *Gaussian* calculation. 
 **Tips:** You can use [RunGJF](https://github.com/wongzit/minorScripts) for submitting automatically.
