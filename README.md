@@ -7,7 +7,9 @@ Developed by Zhe Wang, Hiroshima University.
 
 ICSSgen3D can help you creating input files for 3D-ICSS calculation.
 
-First pre-release is v0.6 (2021-06-06).
+## Update Histroy
+### v1.0.0 (2021-06-06)
+First release of ICSSgen3D, please enjoy!
 
 ## Usage
 *For more details information, please refer to the user manual.*
