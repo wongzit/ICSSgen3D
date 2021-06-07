@@ -1,4 +1,4 @@
-# ICSSgen3D
+# ICSSgen3D v1.0
 ![](ICSSgen3D_icon_full.png)
 
 Developed by Zhe Wang, Hiroshima University.
