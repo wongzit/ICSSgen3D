@@ -62,3 +62,6 @@ ICSSgen3D will use grid quality of 0.25.
 6. Several input files named as *xxx_3DICSS_00xx.gjf* would be generated to the same dictionary with the original input file.
 Please submit this input files to *Gaussian* calculation. 
 **Tips:** You can use [RunGJF](https://github.com/wongzit/minorScripts) for submitting automatically.
+
+7. [ICSScub3D](https://github.com/wongzit/ICSScub3D) is a Python program which can extract the shielding tensor
+and save them as .cub file for visualization.
